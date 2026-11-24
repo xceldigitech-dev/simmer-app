@@ -1,0 +1,14 @@
+{
+  "appId": "app.simmer.prototype",
+  "appName": "Simmer",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#F3F8F0"
+    }
+  }
+}
